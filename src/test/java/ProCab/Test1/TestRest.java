@@ -7,6 +7,7 @@ public class TestRest {
 	System.out.println("Best");
 	System.out.println("New Class");
 	System.out.println("Seprate");
+	System.out.println("Test");
 	}
 
 }
