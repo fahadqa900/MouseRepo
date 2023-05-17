@@ -8,6 +8,7 @@ public class TestRest {
 	System.out.println("New Class");
 	System.out.println("Seprate");
 	System.out.println("Test");
+	System.out.println("Test1");
 	}
 
 }
